@@ -117,6 +117,7 @@ src-tauri/gen/*
 !**/README
 !PRIVACY.md
 !CONTRIBUTING.md
+!**/IROH_INTEGRATION_PLAN.md
 
 .github-reference/
 .github-reference-readest/
