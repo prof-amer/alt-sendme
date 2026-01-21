@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AltSendme</string>
+
+    <!-- Navigation -->
+    <string name="tab_send">Send</string>
+    <string name="tab_receive">Receive</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+    <string name="browse">Browse</string>
+    <string name="donate">Donate</string>
+
+    <!-- Sender -->
+    <string name="sender_title">Send</string>
+    <string name="sender_subtitle">Share files or folders via encrypted peer-to-peer connections.</string>
+    <string name="sender_stopping_transmission">Stopping transmission…</string>
+    <string name="sender_start_sharing">Start Sharing</string>
+    <string name="sender_starting_share">Starting Share…</string>
+    <string name="sender_stop_sharing">Stop Sharing</string>
+    <string name="sender_share_this_ticket">Share this ticket:</string>
+    <string name="sender_send_this_ticket">Send this ticket to the person who wants to receive your file</string>
+    <string name="sender_keep_app_open">Keep this app open while others download your files</string>
+    <string name="sender_file_label">File:</string>
+    <string name="sender_listening_for_connection">Listening for connection</string>
+    <string name="sender_sharing_in_progress">Sharing in progress</string>
+    <string name="sender_transfer_completed">Transfer completed</string>
+    <string name="sender_files_being_transmitted">Files are being transmitted</string>
+    <string name="sender_preparing_for_transport">Preparing for transport…</string>
+    <string name="sender_please_wait_processing">Please wait while we process your files for sharing…</string>
+    <string name="sender_drop_files_here">Tap to select files</string>
+    <string name="sender_select_files">Select Files</string>
+    <string name="sender_or_browse">or browse to select files or folders</string>
+    <string name="sender_file_selected">File selected</string>
+    <string name="sender_folder_selected">Folder selected</string>
+    <string name="sender_item_selected">Item selected</string>
+    <string name="sender_browse_file">Browse File</string>
+    <string name="sender_browse_folder">Browse Folder</string>
+    <string name="sender_copy_to_clipboard">Copy to clipboard</string>
+    <string name="sender_copied">Copied!</string>
+    <string name="sender_broadcast_mode">Broadcast</string>
+
+    <!-- Receiver -->
+    <string name="receiver_title">Receive Files</string>
+    <string name="receiver_subtitle">Download files from sender using encrypted peer-to-peer connections over the internet.</string>
+    <string name="receiver_save_to_folder">Save to folder:</string>
+    <string name="receiver_no_folder_selected">No folder selected</string>
+    <string name="receiver_paste_ticket">Paste the ticket here:</string>
+    <string name="receiver_ticket_placeholder">sendme receive ticket…</string>
+    <string name="receiver_how_to_receive">How to receive files</string>
+    <string name="receiver_instruction_1">Sender must be online and sharing a file</string>
+    <string name="receiver_instruction_2">Get a ticket from the sender</string>
+    <string name="receiver_instruction_3">Paste the ticket in the text area</string>
+    <string name="receiver_instruction_4">Click download to start receiving</string>
+    <string name="receiver_instruction_5">Files will be saved to your selected folder</string>
+    <string name="receiver_keep_app_open">Keep this app open while downloading files</string>
+    <string name="receiver_connecting_to_sender">Connecting to sender</string>
+    <string name="receiver_downloading_in_progress">Downloading in progress</string>
+    <string name="receiver_download_completed">Download completed</string>
+    <string name="receiver_stop_receiving">Stop receiving</string>
+    <string name="receiver_start_download">Start Download</string>
+
+    <!-- Transfer -->
+    <string name="transfer_progress">Transfer Progress</string>
+    <string name="transfer_speed">Speed</string>
+    <string name="transfer_eta">ETA</string>
+    <string name="transfer_time_remaining">Time Remaining</string>
+    <string name="transfer_calculating">Calculating…</string>
+    <string name="transfer_complete">Transfer Complete!</string>
+    <string name="transfer_stopped">Transmission Stopped</string>
+    <string name="transfer_new_transfer">New Transfer</string>
+    <string name="transfer_done">Done</string>
+    <string name="transfer_open">Open</string>
+    <string name="transfer_was_stopped">The transfer was stopped before completion.</string>
+    <string name="transfer_success_message">Your transfer has been completed successfully.</string>
+    <string name="transfer_file">File</string>
+    <string name="transfer_folder">Folder</string>
+    <string name="transfer_file_name">File name</string>
+    <string name="transfer_file_size">File size</string>
+    <string name="transfer_folder_size">Folder size</string>
+    <string name="transfer_download_path">Download path</string>
+    <string name="transfer_duration">Duration</string>
+    <string name="transfer_avg_speed">Avg Speed</string>
+
+    <!-- Errors -->
+    <string name="error_sharing_failed">Sharing Failed</string>
+    <string name="error_sharing_failed_desc">Failed to start sharing</string>
+    <string name="error_stop_sharing_failed">Stop Sharing Failed</string>
+    <string name="error_stop_sharing_failed_desc">Failed to stop sharing</string>
+    <string name="error_copy_failed">Copy Failed</string>
+    <string name="error_copy_failed_desc">Failed to copy ticket</string>
+    <string name="error_folder_dialog_failed">Folder Dialog Failed</string>
+    <string name="error_folder_dialog_failed_desc">Failed to open folder dialog</string>
+    <string name="error_file_dialog_failed">File Dialog Failed</string>
+    <string name="error_file_dialog_failed_desc">Failed to open file dialog</string>
+    <string name="error_receive_failed">Receive Failed</string>
+    <string name="error_receive_failed_desc">Failed to receive file</string>
+    <string name="error_open_folder_failed">Open Folder Failed</string>
+    <string name="error_open_folder_failed_desc">Failed to open download folder</string>
+    <string name="error_no_file_selected">No file selected</string>
+    <string name="error_invalid_ticket">Invalid ticket format</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_transfers">File Transfers</string>
+    <string name="notification_channel_transfers_desc">Notifications for ongoing file transfers</string>
+    <string name="notification_sending">Sending file…</string>
+    <string name="notification_receiving">Receiving file…</string>
+</resources>

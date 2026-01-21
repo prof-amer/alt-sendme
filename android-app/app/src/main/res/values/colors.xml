@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Background Colors - matching desktop app -->
+    <color name="app_bg">#191919</color>
+    <color name="app_main_view">#191919</color>
+    <color name="body_bg">#191919</color>
+
+    <!-- Primary Colors -->
+    <color name="app_primary">#5FD365</color>
+    <color name="app_primary_variant">#25D365</color>
+    <color name="app_accent_light">#2D78DC</color>
+    <color name="app_accent">#363636</color>
+    <color name="app_destructive">#903C3C</color>
+
+    <!-- Text Colors -->
+    <color name="app_bg_fg">#FFFFFF</color>
+    <color name="app_main_view_fg">#FFFFFF</color>
+    <color name="app_primary_fg">#FFFFFF</color>
+    <color name="app_accent_fg">#FFFFFF</color>
+    <color name="app_destructive_fg">#FFFFFF</color>
+    <color name="text_muted">#99FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+
+    <!-- Glass Effect Colors -->
+    <color name="glass_border">#1AFFFFFF</color>
+    <color name="glass_border_light">#0DFFFFFF</color>
+    <color name="tab_background">#1AFFFFFF</color>
+    <color name="tab_selected_border">#33FFFFFF</color>
+
+    <!-- Progress Bar Colors -->
+    <color name="progress_background">#1AFFFFFF</color>
+    <color name="progress_fill">#AF25D365</color>
+
+    <!-- Status Colors -->
+    <color name="status_listening">#808080</color>
+    <color name="status_active">#25D365</color>
+    <color name="status_completed">#2D78DC</color>
+</resources>
